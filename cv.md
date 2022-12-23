@@ -12,9 +12,9 @@
 
 **Discord:** LokkyGR# 4655
 
-[For raschill] [dyr1]
+ [For raschill][dyr1]
 
-[dyr1][https://www.twitch.tv/dyrachyo]
+
 
 -----------
 
@@ -37,3 +37,5 @@ Mogu na juggere katku zasolit
 2. English - B1
 
 3. Language of pain - C2++
+
+[dyr1][https://www.twitch.tv/dyrachyo]
