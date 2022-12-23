@@ -1,4 +1,4 @@
-#Grippe Ruslan
+# Grippe Ruslan
 ===
-##Junior Frontend Developer
-*****
+## Junior Frontend Developer
+---------
