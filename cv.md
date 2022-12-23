@@ -12,7 +12,7 @@
 
 **Discord:** LokkyGR# 4655
 
-[For raschill](dyrachyo) ![dyrachyo](/img/dyrila.png)
+[For raschill](dyrachyo) ![dyrachyo1](/img/dyrila.png)
 
 [dyrachyo][https://www.twitch.tv/dyrachyo]
 
