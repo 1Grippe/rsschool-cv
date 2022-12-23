@@ -12,7 +12,7 @@
 
 **Discord:** LokkyGR# 4655
 
-[raschill][dyr1]:
+[For raschill][dyr1]
 
 
 
