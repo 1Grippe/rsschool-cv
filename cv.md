@@ -12,7 +12,7 @@
 
 **Discord:** LokkyGR# 4655
 
-[raschill][dyr1]
+[raschill][dyr1]:
 
 
 
@@ -38,4 +38,4 @@ Mogu na juggere katku zasolit
 
 3. Language of pain - C2++
 
-[dyr1][https://www.twitch.tv/dyrachyo]
+[dyr1]: https://www.twitch.tv/dyrachyo
