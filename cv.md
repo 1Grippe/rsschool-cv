@@ -1,10 +1,10 @@
 # Grippe Ruslan
 
-## Junior Frontend Developer
+#### Junior Frontend Developer
 
 ----------
 
-## Contact information:
+#### Contact information:
 
 **Phone number:** 87759454094 
 
